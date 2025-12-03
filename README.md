@@ -115,3 +115,11 @@ This project gives hands-on experience with:
 - Stochastic optimization and runtime–accuracy trade-offs
 
 These tools form the foundation for modern large-scale optimization and machine learning.
+
+
+### 📘 Open the Notebook
+
+For a clean, interactive view of the optimization notebook, open it using nbviewer:
+
+🔗 **[Open `main.ipynb` in nbviewer](https://nbviewer.org/github/Carmel-Vald/computational-methods-in-optimization/blob/main/main.ipynb)**
+
