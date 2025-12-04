@@ -33,7 +33,7 @@ Tasks include:
 
 ## Methods Implemented
 
-### ✔ Analytical Least-Squares Solution
+###  Analytical Least-Squares Solution
 - Shows convexity of the objective function  
 - Uses the closed-form estimator  
   \[
@@ -44,7 +44,7 @@ Tasks include:
 
 ---
 
-### ✔ Projected Gradient Descent (PGD)
+###  Projected Gradient Descent (PGD)
 - Projection onto ℓ₂-ball  
   \[
   \Pi_C(a) =
@@ -64,7 +64,7 @@ Results:
 
 ---
 
-### ✔ Smoothness Constant Computation
+###  Smoothness Constant Computation
 - The Lipschitz constant of ∇h(a) is:
   \[
   L = \lambda_{\max}\left(\frac{X^T X}{m}\right)
@@ -74,7 +74,7 @@ Results:
 
 ---
 
-### ✔ Stochastic Gradient Descent (Mini-Batch)
+###  Stochastic Gradient Descent (Mini-Batch)
 - Implements SGD on the constrained domain  
 - Evaluates multiple batch sizes: b = 1, 10, 100, 10,000
 - Observations:
@@ -117,9 +117,9 @@ This project gives hands-on experience with:
 These tools form the foundation for modern large-scale optimization and machine learning.
 
 
-### 📘 Open the Notebook
+###  Open the Notebook
 
 For a clean, interactive view of the optimization notebook, open it using nbviewer:
 
-🔗 **[Open `main.ipynb` in nbviewer](https://nbviewer.org/github/Carmel-Vald/computational-methods-in-optimization/blob/main/main.ipynb)**
+ **[Open `main.ipynb` in nbviewer](https://nbviewer.org/github/Carmel-Vald/computational-methods-in-optimization/blob/main/main.ipynb)**
 
